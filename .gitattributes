@@ -1,1 +1,2 @@
- *.* linguist-language=Jupyter NoteBook
+*.ipynb linguist-detectable=true
+*.* linguist-detectable=false
